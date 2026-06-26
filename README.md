@@ -30,10 +30,10 @@ Database Used: MySQL (XAMPP)
 
 ## Screenshot
 ### Login Screen
-![Login](screenshots/login.png)
+![Login](Screenshots/login.png)
 
 ### Game Screen
-![Game](screenshots/game.png)
+![Game](Screenshots/game.png)
 
 ### Leaderboard
-![Leaderboard](screenshots/leaderboard.png)
+![Leaderboard](Screenshots/leaderboard.png)
