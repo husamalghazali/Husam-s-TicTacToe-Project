@@ -33,7 +33,7 @@ Database Used: MySQL (XAMPP)
 ![Login](Screenshots/login.png)
 
 ### Game Screen
-![Game](Screenshots/game.png)
+![Game Screen](https://raw.githubusercontent.com/husamalghazali/Husam-s-TicTacToe-Project/main/Screenshots/game.png)
 
 ### Leaderboard
 ![Leaderboard](Screenshots/leaderboard.png)
